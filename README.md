@@ -4,4 +4,4 @@ Backplane to connect IMST iC880a LoRaWAN concentrator board to a Raspberry Pi (a
 
 It is designed to work with [this install script](https://github.com/ttn-zh/ic880a-gateway/wiki): plug and play 😎
 
-The source is a [Fritzing](http://fritzing.org/) file.
+The source is a [Fritzing](http://fritzing.org/) file, also available for order on [Tindie](https://www.tindie.com/products/gnz/imst-ic880a-lorawan-backplane/).
